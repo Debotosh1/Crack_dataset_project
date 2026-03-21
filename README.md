@@ -140,4 +140,6 @@ Loss = 0.3 * FocalLoss + 0.7 * DiceLoss
 -------------------------------
 
 - Model detects cracks in **background textures or noise**
+<img width="389" height="411" alt="crack 1 image" src="https://github.com/user-attachments/assets/9585dccb-079d-4c6d-aa0c-00a2c4d2e285" />
+
 
