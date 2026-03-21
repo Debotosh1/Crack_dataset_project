@@ -1,0 +1,16 @@
+torch>=2.0
+torchvision>=0.15
+
+opencv-python
+numpy
+matplotlib
+tqdm
+
+transformers>=4.35
+tokenizers
+
+albumentations
+
+pycocotools
+
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git
