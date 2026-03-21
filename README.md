@@ -94,7 +94,7 @@ Prompts:
 
 ---
 
-# 🧮 Loss Function
+# 🧮 Loss Function | Metric | Fail Case Analysis
 
 We use a combination of Focal Loss and Dice Loss:
 
